@@ -1,6 +1,6 @@
-# Hi, I'm Prince 👋
+# Hi, I'm Prince Chaudhary👋
 
-### 🚀 Aspiring Full-Stack Developer | AI Enthusiast
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Web+Designer;Problem+Solver;Full-Stack+Developer;AI+Enthusiast)](https://git.io/typing-svg)
 
 Passionate about building web applications, solving problems through code, and continuously learning new technologies. Currently exploring Full-Stack Development, Artificial Intelligence, and Machine Learning.
 
@@ -39,9 +39,9 @@ Passionate about building web applications, solving problems through code, and c
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=princejatt243-creator\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=princejatt243-creator\&layout=compact\&theme=tokyonight)
 
 ---
 
