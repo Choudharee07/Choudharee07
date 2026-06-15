@@ -1,6 +1,6 @@
 # Hi, I'm Prince Chaudhary👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Web+Designer;Problem+Solver;Full-Stack+Developer;AI+Enthusiast)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=300&width=700&lines=👉+Aspiring+Full-Stack+Developer;💡+Problem+Solver;🤖+AI+Enthusiast;🚀+Building+Projects+Every+Day" />
 
 Passionate about building web applications, solving problems through code, and continuously learning new technologies. Currently exploring Full-Stack Development, Artificial Intelligence, and Machine Learning.
 
